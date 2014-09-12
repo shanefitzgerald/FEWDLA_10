@@ -110,3 +110,6 @@ border-top: 1px solid #ffffff;
 #education.resume-block:hover{background-color: #ff850b;}
 #skills.resume-block:hover{background-color: #ff850b;}
 
+.dates {
+	float: right;
+}
