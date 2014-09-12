@@ -114,4 +114,12 @@ li {
  	position: relative ;
  }
 
+/*added css for span tab*/
+
+ #styleme {
+ 	font-family: "Times New Roman", Times, serif;
+ 	color: red;
+ 	float: right;
+ }
+
  
