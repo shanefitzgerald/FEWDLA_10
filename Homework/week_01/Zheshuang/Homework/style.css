@@ -1,0 +1,112 @@
+
+body
+{
+	background-color: #00bdbd;
+	font-family: "helvetica", "arial","sans-serif";
+	font-size: 16px;
+	line-height: 1.5;
+	border: 5px solid #ffffff;
+	padding: 50px;
+	color:#ffffff;
+	background-color: #00bdbd;
+	width:960px;
+	margin:30px auto;
+
+}
+
+
+h3
+{
+	background-color: #bd005f;
+	display: inline;
+	margin: 0px;
+}
+
+
+a{
+	color:#bd005f;
+}
+
+strong{
+	color: red;
+}
+nav {
+	color: #999999;
+	text-align: center;
+}
+
+#head
+{
+	text-align: center;
+	border-bottom:1px solid #ffffff;
+}
+
+#head h1
+{
+font-family: "Times New Roman";
+font-style: italic;
+}
+
+#head1
+{
+	text-align: center;
+	
+}
+#head1 h1
+{
+font-family: "Times New Roman";
+font-style: italic;
+}
+
+#main{
+	border-bottom: 1px solid #ffffff;
+}
+
+img
+{
+	float:right;
+	padding:5px;
+}
+
+#foot
+{
+	padding:20px 0px 20px 0px;
+
+}
+
+a:hover
+{
+	background-color: #ffffff;
+}
+
+#foot ul
+{
+text-align: center;
+font-weight: bold;
+}
+
+
+}
+ a:hover{
+	
+	background-color: #0bffff;
+}
+
+.resume-block 
+{
+border-top: 1px solid #ffffff;
+}
+
+.resume-block p{
+	color:#001f1f;
+}
+.resume-block li{
+	color:#001f1f;
+}
+
+#activities.resume-block:hover{background-color: #ff850b;}
+#intern.resume-block:hover{background-color: #ff850b;}
+#summary.resume-block:hover{background-color: #ff850b;}
+#education.resume-block:hover{background-color: #ff850b;}
+#skills.resume-block:hover{background-color: #ff850b;}
+

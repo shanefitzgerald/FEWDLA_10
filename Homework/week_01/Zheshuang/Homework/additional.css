@@ -1,0 +1,19 @@
+body
+{
+margin: 50px;
+font-family: "helvetica","arial","sans-serif";	
+}
+
+
+.weeklyclass
+{
+	background-color: #fff;
+	border-bottom: 2px solid black;
+	padding: 20px;
+	margin:30px;
+}
+
+h1
+{
+	text-align: center;
+}
